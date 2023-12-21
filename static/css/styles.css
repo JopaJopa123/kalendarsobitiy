@@ -1,0 +1,218 @@
+.background-image {
+    width: 100%;
+    height: 100%;
+    background-image: url('Frame45.png');
+    background-size: cover;
+    position: fixed;
+    z-index: -1;
+}
+.overlay-image {
+    background-image: url('Group222.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 745px;
+    height: 411px;
+    top:200px;
+    left: 150px;    
+    z-index: 1;
+}
+.overlay1-image {
+    background-image: url('Group220.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 403px;
+    height: 71px;
+    top: 700px;
+    left: 130px;        
+    z-index: 1;
+}
+.overlay2-image {
+    background-image: url('img3.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    top: 1200px;
+    left: 1200px;          
+    z-index: 1;
+}
+.overlay3-image {
+    background-image: url('text1.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 901px;
+    height: 408px;
+    top: 1224px;
+    left: 84px;  
+    z-index: 1;
+}
+.overlay4-image {
+    background-image: url('img4.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 688px;
+    height: 139px;
+    top: 1800px;
+    left: 84px;    
+    z-index: 1;
+}
+.overlay5-image {
+    background-image: url('img5.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    top: 2300px;
+    left: 1160px;
+    z-index: 1;
+}
+.overlay6-image {
+    background-image: url('text2.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 901px;
+    height: 357px;
+    top: 2300px;
+    left: 84px;    
+    z-index: 1;
+}
+.overlay7-image {
+    background-image: url('img4.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 688px;
+    height: 139px;
+    top: 2850px;
+    left: 84px;
+    z-index: 1;
+}
+.overlay8-image {
+    background-image: url('январь-февраль.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1779px;
+    height: 198px;
+    top: 3153px;
+    left: 70px;        
+    z-index: 1;
+}
+.overlay9-image {
+    background-image: url('text3.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 903px;
+    height: 308px;
+    top: 3480px;
+    left: 93px;      
+    z-index: 1;
+}
+.overlay10-image {
+    background-image: url('img6.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    top: 3480px;
+    left: 1200px;       
+    z-index: 1;
+}
+.overlay11-image {
+    background-image: url('img7.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1791px;
+    height: 1482px;
+    top: 4200px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay12-image {
+    background-image: url('img8.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 5400px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay13-image {
+    background-image: url('img9.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 6500px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay14-image {
+    background-image: url('img10.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 7700px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay15-image {
+    background-image: url('img11.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 8900px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay16-image {
+    background-image: url('img12.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 10000px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay17-image {
+    background-image: url('img13.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 11200px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay18-image {
+    background-image: url('img14.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 12350px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay19-image {
+    background-image: url('img15.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 13500px;
+    left: 80px;
+    z-index: 1;
+}
+.overlay20-image {
+    background-image: url('img16.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1733px;
+    height: 1382px;
+    top: 14700px;
+    left: 80px;
+    z-index: 1;
+}
