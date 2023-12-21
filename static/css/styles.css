@@ -216,3 +216,13 @@
     left: 80px;
     z-index: 1;
 }
+.overlay21-image {
+    background-image: url('text4.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1876px;
+    height: 605px;
+    top: 15298px;
+    left: 22px;
+    z-index: 1;
+}
